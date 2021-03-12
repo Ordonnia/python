@@ -1,0 +1,7 @@
+README.txt
+setup.py
+MeaxisNetwork.egg-info/PKG-INFO
+MeaxisNetwork.egg-info/SOURCES.txt
+MeaxisNetwork.egg-info/dependency_links.txt
+MeaxisNetwork.egg-info/requires.txt
+MeaxisNetwork.egg-info/top_level.txt
