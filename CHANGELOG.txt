@@ -1,0 +1,12 @@
+--------------------------
+
+Changelog
+
+--------------------------
+
+Version 0.0.1
+
+- Beta Version released
+- Users, Account, Funfact, LeafyStatus, Shop and Creations class.
+- Custom errors for missing keyword arguments.
+
