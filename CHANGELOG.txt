@@ -4,9 +4,16 @@ Changelog
 
 --------------------------
 
-Version 0.0.1
+Version 0.0.2
 
 - Beta Version released
 - Users, Account, Funfact, LeafyStatus, Shop and Creations class.
 - Custom errors for missing keyword arguments.
 
+--------------------------
+
+Version 0.0.3
+
+- Account, User, Creations, Funfact, LeafyStatus, Shop, Vote classes are split into files.
+- Credentials class is added for storing logcooks and sesscooks (not fully implemented).
+- New function for checking the response codes to format errors in a readable JSON format.

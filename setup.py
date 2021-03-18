@@ -10,9 +10,9 @@ classifiers = [
  
 setup(
   name='MeaxisNetwork',
-  version='0.0.2',
+  version='0.0.3',
   description='A python wrapper for the MeaxisNetwork API.',
-  long_description="A python wrapper for the MeaxisNetwork API.",
+  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
   author='MeaxisNetwork',
   author_email='meaxis@meaxisnetwork.net',
@@ -20,5 +20,6 @@ setup(
   classifiers=classifiers,
   keywords='meaxisnetwork', 
   packages=find_packages(),
-  install_requires=['requests'] 
+  install_requires=['requests', 'json'],
+  include_package_data = True
 )
