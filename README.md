@@ -4,11 +4,11 @@
 
 This is a python wrapper to include MeaxisNetwork API Endpoints and requests into your code. The following endpoints are supported:
 
-> Users  
-> Accounts  
+> Accounts 
 > Creations  
 > Funfact  
-> Shop  
+> Shop
+> Users
 > Vote
 
 ## Code Samples
