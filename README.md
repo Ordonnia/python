@@ -6,7 +6,7 @@ This is a python wrapper to include MeaxisNetwork API Endpoints and requests int
 
 > Accounts 
 > Creations  
-> Funfact  
+> Funfact
 > Shop
 > Users
 > Vote
