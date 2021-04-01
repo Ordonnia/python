@@ -4,9 +4,63 @@ Changelog
 
 --------------------------
 
-Version 0.0.1
+Version 0.0.2
 
 - Beta Version released
 - Users, Account, Funfact, LeafyStatus, Shop and Creations class.
 - Custom errors for missing keyword arguments.
 
+--------------------------
+
+Version 0.0.3
+
+- Account, User, Creations, Funfact, LeafyStatus, Shop, Vote classes are split into files.
+- Credentials class is added for storing logcooks and sesscooks (not fully implemented).
+- New function for checking the response codes to format errors in a readable JSON format.
+
+--------------------------
+
+Version 0.0.4
+
+- (CRITICAL) Fixed a bug where the module did not install properly.
+
+--------------------------
+
+Version 0.0.5
+
+- (CRITICAL) Fixed a bug where incorrect dependencies were trying to be installed by setuptools configuration.
+
+--------------------------
+
+Version 0.0.6
+
+- Even more critical bug fixes.
+
+--------------------------
+
+Version 0.0.7
+
+- BUG FIXES 
+
+--------------------------
+
+Version 0.0.8 & 0.0.9
+
+- Critical Bug Fix Attempts
+
+--------------------------
+
+Version 0.1.0
+
+- The critical bug has been fixed.
+- Importing the module no longer gives you the "filename has been loaded" screen.
+
+--------------------------
+
+Version 0.1.1 & 0.1.2 & 0.1.3 & 0.1.4
+
+- Categorisation (v2 APIs go in meaxisnetwork.v2)
+- meaxisnetwork.utils now includes a HTTPRequest class for ease of use for using the module with outdated or deprecated APIs not included in the module.
+- All modules have been switched to the HTTPRequest class instead of the previous request workflow.
+- POST requests have been fixed.
+- Credentials class fully implemented.
